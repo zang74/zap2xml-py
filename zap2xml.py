@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """zap2xml.py -- The simplest zap2it scraper I could write.
 
 Around June 2020 the `zap2xml.pl` I had stopped working.  It generated HTTP
